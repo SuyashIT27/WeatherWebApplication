@@ -7,7 +7,7 @@ body {
 }
 
 body {
-  background-image: url("/photo/day.jpg");
+  background-image: url("day.jpg");
   background-size: cover;
   background-position: center;
   font-family: "Poppins", sans-serif;
@@ -268,3 +268,4 @@ body {
     font-size: 18px;
   }
 }
+
